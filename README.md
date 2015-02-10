@@ -1,0 +1,2 @@
+# nzslider
+AngularJS content slider
